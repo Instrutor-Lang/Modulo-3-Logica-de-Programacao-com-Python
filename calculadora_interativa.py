@@ -26,4 +26,4 @@ while True:
     elif opcao == '4':
         print(f"Resultado: {num1 / num2}")
     else:
-        print("Opção inválida
+        print("Opção inválida!")
